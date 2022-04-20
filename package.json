@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "yarn global add node-gyp-build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@toruslabs/customauth": "^7.0.3",
