@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node print_environment && next build",
+    "build": "next build && node print_environment",
     "start": "next start",
     "lint": "next lint"
   },
