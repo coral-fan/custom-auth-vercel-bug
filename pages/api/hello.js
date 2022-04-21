@@ -1,4 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+require("../../print_environment");
+
 import CustomAuth from "@toruslabs/customauth";
 
 // new CustomAuth({
