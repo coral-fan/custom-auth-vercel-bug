@@ -7,3 +7,6 @@ https://custom-auth-vercel-bug.vercel.app/api/hello
 
 ## Logs
  https://vercel.com/coral/custom-auth-vercel-bug/GLX6dmXNNB2WGaiR3nZocg6DnH2H/functions
+
+## Related Issues
+- https://github.com/nhost/nhost/issues/419
