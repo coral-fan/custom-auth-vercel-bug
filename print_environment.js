@@ -1,4 +1,5 @@
 var os = require("os");
+var fs = require("fs");
 
 var vars = (process.config && process.config.variables) || {};
 var prebuildsOnly = !!process.env.PREBUILDS_ONLY;
