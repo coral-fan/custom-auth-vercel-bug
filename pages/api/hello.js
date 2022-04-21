@@ -1,4 +1,5 @@
-// import CustomAuth from "@toruslabs/customauth";
+import CustomAuth from "@toruslabs/customauth";
+
 export default function handler(req, res) {
   res.status(200).send(__dirname);
 }
