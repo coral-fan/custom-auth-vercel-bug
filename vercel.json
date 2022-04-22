@@ -1,7 +1,7 @@
 {
     "functions": {
-        "pages/api/*": {
-            "includeFiles": "node_modules/microtime/prebuilds/*"
+        "pages/api/**": {
+            "includeFiles": "node_modules/microtime/prebuilds/**"
         }
     }
 }
