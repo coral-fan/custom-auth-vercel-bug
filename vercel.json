@@ -1,6 +1,6 @@
 {
     "functions": {
-        "pages/api/**": {
+        "pages/api/hello.js": {
             "includeFiles": "node_modules/microtime/prebuilds/**"
         }
     }
