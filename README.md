@@ -2,7 +2,8 @@
 ## Screenshot
 ![](./vercel_runtime_error.png)
 
-## https://github.com/vercel/vercel/issues/7706
+## Issue
+https://github.com/vercel/vercel/issues/7706
 
 ## Endpoint
 https://custom-auth-vercel-bug.vercel.app/api/hello
